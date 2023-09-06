@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFEBCD&height=120&section=header"/>
+
 
 <p align="center"> <a href=""><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEBCD&width=435&lines=Hello%2C+Welcome+to+my+Profile+%F0%9F%8D%82" alt="Typing SVG" class="Position" /></a> </p>
 <div align="center">  
@@ -11,4 +11,4 @@
 <a href = "mailto:contato.maxsuelviegas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <aa href="https://www.linkedin.com/in/maxsuelviegas/" taarget="_blank"><iamg src="https://img.shields.io/badge/-LiankedIn-%230077B5?style=for-the-badge&logo=linkedin&laogoColor=white" style="baorder-radius: 3a0px" taarget="_blanka"></aa> 
  </div>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFEBCD&height=120&section=footer"/>
+ 
